@@ -5,7 +5,7 @@ The data for execution is missing. In order to use data from the challenge:
 1) clone this repository
 2) add the /data directory from the challenge at the same level of the /src directory.
 4) install gcc compiler and boost 1.72.0 library
-5) install libraries and packages in requirements.txt 
+5) install Python 3.8 with the libraries and packages in requirements.txt 
 6) execute model_build.sh
 7) execute model_apply.sh
 
