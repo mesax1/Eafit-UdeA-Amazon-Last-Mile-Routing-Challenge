@@ -8,3 +8,5 @@ The data for execution is missing. In order to use data from the challenge:
 5) install libraries and packages in requirements.txt 
 6) execute model_build.sh
 7) execute model_apply.sh
+
+We also added a Dockerfile in case you want to use the docker image we used in the challenge (which allows you to skip steps 2-5)
